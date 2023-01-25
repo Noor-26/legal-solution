@@ -10,6 +10,10 @@
 .dark_06{
     color: #E7E7E7;
 }
+.dark_03{
+    color: #707070;
+    font-size: 14px;
+}
 
 main{
     background-image: url(./images/banner.png);
